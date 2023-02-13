@@ -36,7 +36,7 @@ public class gradeMessage {  // begin class
         banner = "*******************************************\n";
         banner += "Name:        your name here\n";
         banner += "Class:        CS20S\n";
-        banner += "Assignment:    Selection example 5.1 simple switch\n";
+        banner += "Assignment:    Selection example simple switch\n";
         banner += "*******************************************\n\n";
 
         System.out.println(banner);
